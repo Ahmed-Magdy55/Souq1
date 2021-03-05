@@ -1,0 +1,84 @@
+.body{
+width: 100vw;
+height: 100vh;
+margin: 0%;
+padding: 0%;
+}
+.navbar{
+    background-color: rgb(46, 41, 66);
+}
+.navbar-brand .im-logo{
+    width: 235px;
+    padding-bottom: 12px;
+
+
+}
+.navbar-brand .im-souq{
+    padding-right: 32px;
+}
+
+.form-inline .form-control {
+    display: inline-block;
+    width: 500px;
+    vertical-align: middle;
+}
+.btn-outline-success{
+    color: yellow;
+}
+.navbar-collapse{
+    padding-left: 60px;
+    font-size: 14pt;
+    
+    color:red;
+}
+#navbarDropdown{
+color: blue;
+}
+
+/* start nav-bar2 */
+
+#nav-bar2{
+    background-color: rgb(0, 66, 189);
+}
+.background{
+    width: 100vw;
+    height: 100vh;
+    display: inline-block;
+}
+.navbar-nav{
+    padding-right: 20px;
+
+}
+/* end nav-bar2 */
+
+/* start slider  */
+.slider{
+    height: 50%;
+    width: 80%;
+    padding-left: 260px;
+    padding-right: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+/* end slider  */
+
+
+
+.pic-slider{
+    padding-left: 51%;
+}
+
+#nav-bar3{
+
+  background-color: white;
+}
+.nav-i1{
+    padding-left: 10px;
+}
+
+.nav-i2{
+    padding-left: 50px;
+}
+
